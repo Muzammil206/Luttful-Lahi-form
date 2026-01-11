@@ -137,7 +137,7 @@ export function UserInformationForm() {
               <h2 className="text-2xl font-bold text-foreground mb-2">Successfully Submitted!</h2>
               <p className="text-muted-foreground mb-6">
                 Your information has been received and will be processed shortly. Thank you for registering with
-                Luttful-Lahi International.
+                Lutful-Lahi International.
               </p>
               <Button
                 onClick={() => {
